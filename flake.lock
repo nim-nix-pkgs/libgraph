@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1653701983,
-        "narHash": "sha256-/8bzVqEXm4yJuqAT+ETAk0SCUV6qxtVf+e5dSqZ5a/0=",
+        "lastModified": 1656297818,
+        "narHash": "sha256-QjBX7APSaFqw43QtT+Re9us6CIv55NhJogZLPspPJjQ=",
         "owner": "nim-nix-pkgs",
         "repo": "libgraph",
-        "rev": "9e39a6a1ff913773d0caefe76f893440fe3a3492",
+        "rev": "3cf28fe1e7cb65f3c31a2b02705263703f9e1be3",
         "type": "github"
       },
       "original": {
